@@ -10,20 +10,8 @@ Problem Statement
 ----------------------------------
 **Tasks:**
 
-1. Test are failing which needs your expertise to fix it.
-2. Review and point out design issues with the current codebase/framework, if any.
-3. Improve/refactor the code to implement your suggestions.
+Note : "Chromedriver.exe is moved to src folder from the directory."
 
-**Expectation:**
-1. Create a GitHub account if not existing already.
-2. Fork this repo (DO NOT CLONE).
-3. Fix the errors and refactor the code, consider **abstractions, reusability and maintenance.**
-4. Make sure you make multiple check-ins in the process, we would love to see your progress bit by bit.
-5. Also check-in a separate file where you should list all your code review comments.
-6. Send us the link of your GitHub repo to **careers@testvagrant.com**. Also attach your **resume**.
-
-**The parameters of evaluation:**
-1. Naming Conventions & readability of code
-2. Modularization & Abstraction
-3. Demonstration of OO concepts & Design Patterns
-4. Etiquette of Version control
+1. Flight Booking - There were multiple errors which is fixed according with the current code as previous code is very old.
+2. Hotel Booking - There are 2 sets of code for this, one with a simple flow and other using page factory.
+3. Sign In - Here a SwitchFrame is used, for the element to navigate from normal window to another frame.
